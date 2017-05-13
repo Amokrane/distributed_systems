@@ -11,6 +11,10 @@ This document contains a list of resources related to distributed systems.
 * [Notes of Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
+## Ordering
+* 
+* [Time, Clocks and the Ordering of Events by Leslie Lamport](http://amturing.acm.org/p558-lamport.pdf)
+
 ## CAP Theorem
 * [You Can't Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 
