@@ -12,7 +12,6 @@ This document contains a list of resources related to distributed systems.
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Ordering
-* 
 * [Time, Clocks and the Ordering of Events by Leslie Lamport](http://amturing.acm.org/p558-lamport.pdf)
 
 ## CAP Theorem
