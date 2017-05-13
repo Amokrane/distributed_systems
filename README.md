@@ -14,6 +14,10 @@ This document contains a list of resources related to distributed systems.
 ## CAP Theorem
 * [You Can't Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 
+## Snapshot Algorithms
+* [Chandy-Lamport Algorithm](https://en.wikipedia.org/wiki/Chandy-Lamport_algorithm)
+* [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/)
+
 ## Consensus Protocols
 * [The Part Time Parliament (Paxos)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/The-Part-Time-Parliament.pdf
 )
@@ -30,3 +34,7 @@ This document contains a list of resources related to distributed systems.
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
 * [Apache Zookeeper](https://zookeeper.apache.org/)
+
+
+## Misc
+* [Wener Vogel's Job Offer](http://www.allthingsdistributed.com/historical/archives/000538.html)
