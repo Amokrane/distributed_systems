@@ -10,6 +10,7 @@ This document contains a list of resources related to distributed systems.
 * [Readings in distributed systems](https://henryr.github.io/distributed-systems-readings/)
 * [Notes of Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+* [Reading List for Distributed Systems, by Swami Sivasubramanian(https://scalingsystems.com/2011/09/07/reading-list-for-distributed-systems/)
 
 ## Ordering
 * [Time, Clocks and the Ordering of Events by Leslie Lamport](http://amturing.acm.org/p558-lamport.pdf)
