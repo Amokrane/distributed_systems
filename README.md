@@ -36,10 +36,15 @@ This document contains a list of resources related to distributed systems.
 * [Gossip Protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [The promise, and limitations, of gossip protocols](http://dl.acm.org/citation.cfm?id=1317382)
 
+## Membership Protocols
+* [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
+
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
 * [Apache Zookeeper](https://zookeeper.apache.org/)
 
+## Distributed Hash Tables
+* [Distributed hash table on Wikipedia](https://en.wikipedia.org/wiki/Distributed_hash_table)
 
 ## Misc
 * [Wener Vogel's Job Offer](http://www.allthingsdistributed.com/historical/archives/000538.html)
