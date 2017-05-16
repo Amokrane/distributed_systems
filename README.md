@@ -39,6 +39,10 @@ This document contains a list of resources related to distributed systems.
 ## Membership Protocols
 * [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
 
+## Multicast Protocols
+* [Scalable Reliable Multicast, SRM](https://en.wikipedia.org/wiki/Scalable_Reliable_Multicast)
+* [Real-Time Messaging Protocol, RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol)
+
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
 * [Apache Zookeeper](https://zookeeper.apache.org/)
