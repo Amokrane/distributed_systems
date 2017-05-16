@@ -41,7 +41,7 @@ This document contains a list of resources related to distributed systems.
 
 ## Multicast Protocols
 * [Scalable Reliable Multicast, SRM](https://en.wikipedia.org/wiki/Scalable_Reliable_Multicast)
-* [Real-Time Messaging Protocol, RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol)
+* [Reliable Multicast Transport Protocol, RMTP](http://ieeexplore.ieee.org/document/564138/)
 
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
