@@ -32,16 +32,15 @@ This document contains a list of resources related to distributed systems.
 * [Raft, Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 
-## Gossip Protocols
+## Multicast 
+* [Scalable Reliable Multicast, SRM](https://en.wikipedia.org/wiki/Scalable_Reliable_Multicast)
+* [Reliable Multicast Transport Protocol, RMTP](http://ieeexplore.ieee.org/document/564138/)
 * [Gossip Protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [The promise, and limitations, of gossip protocols](http://dl.acm.org/citation.cfm?id=1317382)
+* [Gossip causing AWS outage](http://status.aws.amazon.com/s3-20080720.html)
 
 ## Membership Protocols
 * [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
-
-## Multicast Protocols
-* [Scalable Reliable Multicast, SRM](https://en.wikipedia.org/wiki/Scalable_Reliable_Multicast)
-* [Reliable Multicast Transport Protocol, RMTP](http://ieeexplore.ieee.org/document/564138/)
 
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
