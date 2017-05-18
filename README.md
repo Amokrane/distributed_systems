@@ -53,4 +53,5 @@ This document contains a list of resources related to distributed systems.
 * [Wener Vogel's Job Offer](http://www.allthingsdistributed.com/historical/archives/000538.html)
 * [Pat Helland's Blog](https://blogs.msdn.microsoft.com/pathelland/)
 * [High Scalability Blog](http://highscalability.com/)
-* [Scaling Systems Bog](https://scalingsystems.com/)
+* [Scaling Systems Blog](https://scalingsystems.com/)
+* [Martin Klepmann's Blog](http://martin.kleppmann.com/)
