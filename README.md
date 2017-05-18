@@ -42,6 +42,9 @@ This document contains a list of resources related to distributed systems.
 ## Membership Protocols
 * [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
 
+## Failure Detection
+* [Byzantine fault tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
 * [Apache Zookeeper](https://zookeeper.apache.org/)
