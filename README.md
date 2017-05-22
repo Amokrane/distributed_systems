@@ -38,6 +38,7 @@ This document contains a list of resources related to distributed systems.
 * [Gossip Protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [The promise, and limitations, of gossip protocols](http://dl.acm.org/citation.cfm?id=1317382)
 * [Gossip causing AWS outage](http://status.aws.amazon.com/s3-20080720.html)
+* [Virtual Synchrony](https://en.wikipedia.org/wiki/Virtual_synchrony)
 
 ## Membership Protocols
 * [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
