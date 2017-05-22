@@ -45,6 +45,7 @@ This document contains a list of resources related to distributed systems.
 
 ## Failure Detection
 * [Byzantine fault tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+* [Unreliable Failure Detectors for Reliable Distributed Systems, Chandra & Toueg](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf)
 
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
