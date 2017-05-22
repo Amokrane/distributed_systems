@@ -40,13 +40,11 @@ This document contains a list of resources related to distributed systems.
 * [Gossip causing AWS outage](http://status.aws.amazon.com/s3-20080720.html)
 * [Virtual Synchrony](https://en.wikipedia.org/wiki/Virtual_synchrony)
 
-## Membership Protocols
-* [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
-
-## Failure Detection
+## Membership & Failure Detection Protocols
 * [Byzantine fault tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
 * [Unreliable Failure Detectors for Reliable Distributed Systems, Chandra & Toueg](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p225-chandra.pdf)
 * [A Gossip-Style Failure Detection Service, Renessse, Minsky & Hayden ](https://www.cs.cornell.edu/home/rvr/papers/GossipFD.pdf)
+* [The SWIM Membership Protocol](https://prakhar.me/articles/swim/)
 
 ## Distributed Locking Algorithms
 * [Chubby](https://static.googleusercontent.com/media/research.google.com/fr//archive/chubby-osdi06.pdf)
