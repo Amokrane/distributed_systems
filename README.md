@@ -52,6 +52,7 @@ This document contains a list of resources related to distributed systems.
 
 ## Distributed Hash Tables
 * [Distributed hash table on Wikipedia](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* [DynamoDB Original Paper](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 
 ## Grid Computing
 * [Globus (inter-site) Protocol](http://toolkit.globus.org/toolkit/)
