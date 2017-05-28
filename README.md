@@ -52,6 +52,9 @@ This document contains a list of resources related to distributed systems.
 
 ## Distributed Hash Tables
 * [Distributed hash table on Wikipedia](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* [Chord Original Paper](http://cs.brown.edu/courses/csci2950-g/papers/chord.pdf)
+* [Patry Original Paper](https://www.cs.rice.edu/~druschel/publications/Pastry.pdf)
+* [Kelips Original Paper](http://iptps03.cs.berkeley.edu/final-papers/kelips.pdf)
 * [DynamoDB Original Paper](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 
 ## Grid Computing
