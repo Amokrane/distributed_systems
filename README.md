@@ -13,8 +13,11 @@ This document contains a list of resources related to distributed systems.
 * [Reading List for Distributed Systems, by Swami Sivasubramanian](https://scalingsystems.com/2011/09/07/reading-list-for-distributed-systems/)
 * [What are the seminal papers in distributed systems? Why?, QUORA](https://www.quora.com/What-are-the-seminal-papers-in-distributed-systems-Why)
 
-## Ordering
+## Clock synchronization and events ordering
+* [Cristian's Algorithm](https://en.wikipedia.org/wiki/Cristian%27s_algorithm)
+* [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 * [Time, Clocks and the Ordering of Events by Leslie Lamport](http://amturing.acm.org/p558-lamport.pdf)
+* [Vector Clock Wiki Page](https://en.wikipedia.org/wiki/Vector_clock)
 
 ## CAP Theorem
 * [You Can't Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
